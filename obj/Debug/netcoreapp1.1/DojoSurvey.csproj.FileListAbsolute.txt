@@ -1,0 +1,8 @@
+/Users/vitalieb/Desktop/DojoAssignments/netCore/ASP_NET_CORE/DojoSurvey/bin/Debug/netcoreapp1.1/DojoSurvey.deps.json
+/Users/vitalieb/Desktop/DojoAssignments/netCore/ASP_NET_CORE/DojoSurvey/bin/Debug/netcoreapp1.1/DojoSurvey.runtimeconfig.json
+/Users/vitalieb/Desktop/DojoAssignments/netCore/ASP_NET_CORE/DojoSurvey/bin/Debug/netcoreapp1.1/DojoSurvey.runtimeconfig.dev.json
+/Users/vitalieb/Desktop/DojoAssignments/netCore/ASP_NET_CORE/DojoSurvey/bin/Debug/netcoreapp1.1/DojoSurvey.dll
+/Users/vitalieb/Desktop/DojoAssignments/netCore/ASP_NET_CORE/DojoSurvey/bin/Debug/netcoreapp1.1/DojoSurvey.pdb
+/Users/vitalieb/Desktop/DojoAssignments/netCore/ASP_NET_CORE/DojoSurvey/obj/Debug/netcoreapp1.1/DojoSurvey.AssemblyInfo.cs
+/Users/vitalieb/Desktop/DojoAssignments/netCore/ASP_NET_CORE/DojoSurvey/obj/Debug/netcoreapp1.1/DojoSurvey.dll
+/Users/vitalieb/Desktop/DojoAssignments/netCore/ASP_NET_CORE/DojoSurvey/obj/Debug/netcoreapp1.1/DojoSurvey.pdb
